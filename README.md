@@ -1,10 +1,10 @@
-# JFramework Dart Library
+# Jframework Dart Library
 
 [![Pub Version](https://img.shields.io/pub/v/user_auth_sdk)](https://pub.dev/packages/user_auth_sdk)
 [![License: MIT](https://img.shields.io/badge/license-MIT-purple.svg)](https://opensource.org/licenses/MIT)
 [![CI Status](https://github.com/yourusername/user_auth_sdk/actions/workflows/dart.yml/badge.svg)](https://github.com/yourusername/user_auth_sdk/actions)
 
-A Dart SDK for seamless integration with JFramework APIs, supporting both API Key and Auth Key authentication flows.
+A Dart SDK for seamless integration with Jframework APIs, supporting both API Key and Auth Key authentication flows.
 
 ## Features
 
