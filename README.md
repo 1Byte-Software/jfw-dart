@@ -13,12 +13,11 @@ A Dart SDK for seamless integration with JFramework APIs, supporting both API Ke
   - `AuthKey` header for user credential flows
 - **Complete User Management**:
   - CRUD operations for users
-  - Session management
   - Role-based permissions
-- **Token Management**:
-  - Automatic token storage
-  - Secure credential handling
-  - Token refresh flow
+- **Devices Management**:
+  - CRUD operations for devices
+- **CDN Management**:
+  - Upload file cdn
 
 ## Installation
 
